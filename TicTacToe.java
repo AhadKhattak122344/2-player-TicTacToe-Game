@@ -1,5 +1,5 @@
 
-//Assignment:  Project1: Tic-Tac-Toe 🔴
+//Assignment:  Project1: Tic-Tac-Toe 
 
 //TicTacToe
 
